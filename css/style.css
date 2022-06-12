@@ -170,8 +170,26 @@ footer .details1 .contact_us ul li a
      text-transform: uppercase;
      font-weight: 300 ;
  }
+ /*account.html*/
+/**********************************account-content*************************************/
+.facebook{
+    background:#327782;
+    transition:all 0.3s ease-in-out;
+    height:40px
+}
+.facebook img{
+    height:40px ;
+    background: #35c3d9;
+    padding: 10px;
+    float: left;
+}
+.facebook i{
+    color:white;
+    font-size: 1.1rem;
+    font-style: normal;   
 
-
+     
+}
 /* Media */
 
 @media screen and (max-width : 768px) and (min-width : 576px){
